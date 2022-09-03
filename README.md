@@ -13,7 +13,9 @@ First project playing around with Event Listeners in order to make changes to th
 
 Optimizations
 
-If time allows, I'd like to get back into it and see if I can make it responsive and able to scale down to mobile. 
+Compress images 
+
+Make responsive to mobile
 
 Lessons Learned:
 
